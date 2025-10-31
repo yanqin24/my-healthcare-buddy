@@ -8,12 +8,8 @@ A personal health management application that helps users track their health met
 - Maven
 - SQLite (included in dependencies)
 
-## ScreenShot
-Login 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/df77e5ce-6ce0-4b72-9c34-8e94e8eaf7be" />
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/10506fe2-96b3-4748-b528-a9d3efc34872" />
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/97206eb6-d9a7-4506-a1b5-bfe8f9ce2c68" />
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/f2d69785-dde6-46c0-a474-0e31e1217c07" />
+## Video
+https://youtu.be/P8Iq3vVXCvI
 
 
 ## Installation & Setup
